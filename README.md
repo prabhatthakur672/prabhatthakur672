@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Prabhat Thakur
+**A passionate Software Engineer || Full Stack Engineer || Django, Springboot, Flutter
+
+Email Me 👉 ✉️ **prabhatthakur672@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** An Event Management System focusing on backend APIs, media handling, and scalable architecture.
+- 🌱 **I’m currently learning:** AWS core services — VPC, Subnets, Security Groups, NAT Gateway, Internet Gateway (IGW) — with a focus on real-world cloud architecture.
+- 👯 **I’m looking to collaborate on:** Backend-heavy projects, REST API development, cloud-based applications, and full-stack systems.
+- 🤔 **I’m looking for help with:** System design, cloud deployment strategies, and backend performance optimization.
+- 💬 **Ask me about:** Backend development, Spring Boot, Django, REST APIs, JWT authentication, and media uploads.
+- 📫 **How to reach me:** +919696399698, prabhatthakur672@gmail.com
+- 😄 **Pronouns:** Prabhat
+- ⚡ **Fun fact:** I love Tech—and Tech keeps challenging me to grow every day 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhatthakur672) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@prabhatthakur67) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatthakur672@gmail.com) 
