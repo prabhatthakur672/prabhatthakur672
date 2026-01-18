@@ -3,12 +3,12 @@
 
 Email Me 👉 ✉️ **prabhatthakur672@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** An Event Management System focusing on backend APIs, media handling, and scalable architecture.
-- 🌱 **I’m currently learning:** AWS core services — VPC, Subnets, Security Groups, NAT Gateway, Internet Gateway (IGW) — with a focus on real-world cloud architecture.
-- 👯 **I’m looking to collaborate on:** Backend-heavy projects, REST API development, cloud-based applications, and full-stack systems.
-- 🤔 **I’m looking for help with:** System design, cloud deployment strategies, and backend performance optimization.
-- 💬 **Ask me about:** Backend development, Spring Boot, Django, REST APIs, JWT authentication, and media uploads.
-- 📫 **How to reach me:** +919696399698, prabhatthakur672@gmail.com
+- 🔭 **I’m currently working on:**  An **Event Management System** focusing on backend APIs, media handling, and scalable architecture.
+- 🌱 **I’m currently learning:**  AWS core services — **VPC, Subnets, Security Groups, NAT Gateway, Internet Gateway (IGW)** — with a focus on real-world cloud architecture.
+- 👯 **I’m looking to collaborate on:**  Backend-heavy projects, REST API development, cloud-based applications, and full-stack systems.
+- 🤔 **I’m looking for help with:**  System design, cloud deployment strategies, and backend performance optimization.
+- 💬 **Ask me about:**  Backend development, Spring Boot, Django, REST APIs, JWT authentication, and media uploads.
+- 📫 **How to reach me:**  +919696399698, prabhatthakur672@gmail.com
 - 😄 **Pronouns:** Prabhat
 - ⚡ **Fun fact:** I love Tech—and Tech keeps challenging me to grow every day 🚀
 
@@ -21,6 +21,12 @@ Email Me 👉 ✉️ **prabhatthakur672@gmail.com** For Collaboration/Project or
 ![](https://github-readme-stats.vercel.app/api?username=prabhatthakur672&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prabhatthakur672&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatthakur672&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
