@@ -12,6 +12,7 @@ Email Me 👉 ✉️ **prabhatthakur672@gmail.com** For Collaboration/Project or
 - 😄 **Pronouns:** Prabhat
 - ⚡ **Fun fact:** I love Tech—and Tech keeps challenging me to grow every day 🚀
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhatthakur672) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@prabhatthakur67) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatthakur672@gmail.com) 
 
@@ -21,7 +22,6 @@ Email Me 👉 ✉️ **prabhatthakur672@gmail.com** For Collaboration/Project or
 ![](https://github-readme-stats.vercel.app/api?username=prabhatthakur672&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prabhatthakur672&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatthakur672&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -31,4 +31,8 @@ Email Me 👉 ✉️ **prabhatthakur672@gmail.com** For Collaboration/Project or
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prabhatthakur672&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
